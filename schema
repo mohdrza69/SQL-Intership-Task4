@@ -1,0 +1,23 @@
+# Task 4 – SQL Aggregate Functions & Grouping
+
+This task demonstrates the use of SQL aggregate functions and `GROUP BY` with an Employees dataset.
+
+### Concepts Covered
+- SUM, COUNT, AVG, MAX, MIN
+- GROUP BY
+- HAVING
+- DISTINCT
+- ROUND()
+
+### Example Queries
+1. Total salary by department  
+2. Count employees per department  
+3. Average salary per department  
+4. Highest salary in each department  
+5. Filtering groups using HAVING  
+6. Rounding aggregate results  
+7. Counting distinct values
+
+### Tools
+- DB Browser for SQLite / MySQL Workbench
+
